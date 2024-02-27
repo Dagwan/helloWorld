@@ -5,7 +5,7 @@ This is a simple 'Hello World' program designed to showcase the seamless integra
 
 You can watch a demo of my sofware here:
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/hVh4mbBHu9c)
 
 # Development Environment
 
